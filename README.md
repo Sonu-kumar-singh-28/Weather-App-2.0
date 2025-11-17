@@ -32,7 +32,7 @@ This application utilizes robust technologies for both the mobile frontend and d
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
-| **Frontend (Mobile)** | **Android (Kotlin/Java)** | Building the native Android UI and application logic. |
+| **Frontend (Mobile)** | **Android (Kotlin)** | Building the native Android UI and application logic. |
 | **Data Source** | **OpenWeatherMap API** or equivalent | Fetching accurate, real-time meteorological data. |
 | **Authentication** | **Firebase Auth** or custom backend | Managing user accounts, registration, and login state. |
 | **Branding** | **Code-Quest-Studio** | Application co-powering and development. |
